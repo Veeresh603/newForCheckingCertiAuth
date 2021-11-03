@@ -1,0 +1,12 @@
+.slide-pane__content{
+    background-color: var(--primaryColor);
+}
+
+.slide-pane__overlay.overlay-after-open{
+    z-index:200;
+}
+
+.slide-pane {
+    width:50% !important;
+    height:auto !important;
+}

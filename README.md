@@ -1,0 +1,1 @@
+Gatsby Analogica Course Template with Strapi Connection

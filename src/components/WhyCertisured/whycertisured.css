@@ -1,0 +1,24 @@
+.react-responsive-modal-modal{
+    width: 50%;
+    background: transparent;
+    box-shadow: none !important;
+  
+  }
+
+  @media (max-width : 479px){
+    .react-responsive-modal-modal{
+      width: 100%;
+      height: auto;
+      box-shadow: none;
+      margin: 0;
+    }
+    .react-responsive-modal-root{
+      top: 30%;
+    }
+    .react-responsive-modal-container{
+      height: auto;
+    }
+    .react-responsive-modal-closeButton{
+      background-color: #f1f1f1;
+    }
+ }

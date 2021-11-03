@@ -1,0 +1,19 @@
+::-webkit-input-placeholder{
+    color: #ffffff !important;
+    font-family: var(--family);
+}
+:-ms-input-placeholder{
+    color: #ffffff !important;
+    font-family: var(--family);
+
+}
+:-moz-placeholder{
+    color: #ffffff !important;
+    font-family: var(--family);
+
+}
+::-moz-placeholder{
+    color: #ffffff !important;
+    font-family: var(--family);
+
+}

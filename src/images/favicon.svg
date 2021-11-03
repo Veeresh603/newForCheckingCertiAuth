@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="16" height="16"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="SvgjsClipPath1007">
+      <rect id="SvgjsRect1006" data-name="Rectangle 44" width="16" height="16" transform="translate(1651 -2352)" fill="#fff"></rect>
+    </clipPath>
+  </defs>
+  <g id="SvgjsG1005" transform="translate(-1651 2352)" clip-path="url(#clip-path)">
+    <g id="SvgjsG1004" transform="translate(1652.643 -2352.039)">
+      <path id="SvgjsPath1003" data-name="Path 4" d="M6.287,16.031a.33.33,0,0,0,.07.008.322.322,0,0,0,.069-.008C8.945,15.4,12.673,12.7,12.673,8.9V3.183a.287.287,0,0,0-.287-.286A7.083,7.083,0,0,1,6.6.171a.288.288,0,0,0-.484,0A7.084,7.084,0,0,1,.328,2.9a.286.286,0,0,0-.287.286V8.9C.041,12.7,3.768,15.4,6.287,16.031Z" fill="#002f54"></path>
+      <path id="SvgjsPath1002" data-name="Path 5" d="M6.27,11.931a3.726,3.726,0,1,1,0-7.451" fill="none" stroke="#2cde80" stroke-width="1.427"></path>
+      <path id="SvgjsPath1001" data-name="Path 6" d="M6.412,11.931a3.726,3.726,0,1,0,0-7.451" fill="none" stroke="#dddd3f" stroke-width="1.427"></path>
+      <path id="SvgjsPath1000" data-name="Path 7" d="M6.3,8.1l.061.061L6.421,8.1l3.616-3.622a.71.71,0,0,1,1,0h0a.713.713,0,0,1,0,1.007l.061.061-.061-.061L6.867,9.67h0l0,0,0,0h0a.71.71,0,0,1-1,0l-.15-.151h0l-1.492-1.5-.061.061.061-.061a.711.711,0,0,1,1-1.007h0Z" fill="#2cde80" stroke="#002f54" stroke-width="0.173"></path>
+    </g>
+  </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: contrast(1) brightness(1); } }
+</style></svg>

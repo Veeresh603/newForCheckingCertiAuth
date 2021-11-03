@@ -1,0 +1,18 @@
+.MuiDialog-paperWidthSm{
+    max-width: 100% !important;
+    width:auto;
+    height: auto;
+  }
+
+  .MuiButton-label{
+   font-size:1.25rem;
+   font-weight:600;
+   font-family: var(--family);
+   
+  }
+  .MuiDialogActions-root{
+background-color: var(--primaryColor);
+  }
+  .FormDialog__Button-cMPXQK{
+      padding:12px 45px;
+  }

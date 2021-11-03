@@ -1,0 +1,39 @@
+.MuiDialog-paperWidthSm {
+  max-width: 800px !important;
+  width: 100%;
+  height: auto;
+}
+.MuiButton-outlined{
+  padding: 0px;
+
+}
+
+.MuiButton-label {
+  font-size: 17px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+@media (max-width:479px){
+  .MuiButton-label{
+    font-size: 14px !important;
+    font-weight: 500 !important;
+
+  }
+}
+.MuiDialogActions-root {
+  background-color: var(--primaryColor);
+}
+/* .MuiDialog-paperScrollPaper{
+  max-height: none;
+} */
+.MuiButton-root{
+  color: #fff;
+  padding: 0px;
+}
+.MuiDialog-paperScrollPaper{
+  scrollbar-color: black white;
+}
+.MuiTab-wrapper{
+   font-family: var(--family);
+   font-weight: 600;
+}
